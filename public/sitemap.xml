@@ -21,7 +21,7 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/posts/</loc>
     <lastmod>2018-11-05T13:22:14+24:00</lastmod>
     <priority>0</priority>
   </url>
@@ -51,7 +51,7 @@
   </url>
   
   <url>
-    <loc>/post/my-first-post/</loc>
+    <loc>/posts/my-first-post/</loc>
     <lastmod>2018-11-05T13:22:14+24:00</lastmod>
   </url>
   
